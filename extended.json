@@ -1,0 +1,29 @@
+{
+	"info": {
+		"url_png_icon_64x64": "https://github.com/lordwotton29/various/blob/main/iconariot.png?raw=true",
+		"url_png_logo": "https://github.com/lordwotton29/various/blob/main/logoriot.png?raw=true",
+		"location": "Italy, France",
+		"social": {
+			"twitter_handle": "LordWotton83",
+			"telegram_handle": "Lordwotton",
+			"facebook_handle": "",
+			"youtube_handle": "",
+			"twitch_handle": "",
+			"discord_handle": "",
+			"github_handle": "lordwotton29"
+		},
+		"company": {
+			"name": "",
+			"addr": "",
+			"city": "",
+			"country": "",
+			"company_id": "",
+			"vat_id": ""
+		},
+		"about": {
+			"me": "Italian Cardano Ambassador since 2020, Cardano enthusiast since 2017, experienced Linux sysadmin",
+			"server": "Bare Metal 32 core AMD Epyc 7313, 128GB ECC RAM, 2x2TB NVme, 1GBPS multi fiber lines ",
+			"company": "..."
+		}
+	}
+}
